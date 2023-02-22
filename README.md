@@ -14,7 +14,7 @@ Projeto de um formulario de login simples para treinar minhas habilidades.
 <br>
 
 <p align="center">
-  <img alt="projeto de login" src="" width="100%">
+  <img alt="projeto de login" src="preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
