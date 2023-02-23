@@ -1,7 +1,7 @@
-<h1 align="center"> LoginForm </h1>
+<h1 align="center"> LivrAquim </h1>
 
 <p align="center">
-Projeto de um formulario de login simples para treinar minhas habilidades. 
+Projeto de um sistema de controle de estoque e vendas de uma livraria. 
 </p>
 
 <p align="center">
@@ -24,10 +24,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - Git e Github
 - Figma
+- PHP
+- MySQL
 
 ## 💻 Projeto
 
-O LoginForm é uma pagina de login simples usando HTML e CSS, pensado para ser o login de um projeto de uma livraria que comecei a desenvolver no Senac-PR.
+O LivrAquim é um projeto de um sistema de controle de estoque e vendas de uma livraria, estou o desenvolvendo como projeto final do curso programador de sitemas no Senac-PR.
 
 ## 🔖 Layout
 
