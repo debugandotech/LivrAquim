@@ -178,13 +178,6 @@ input:-webkit-autofill {
         width: 100%;
     }
 
-    .sign-in-js .content::before {
-        top: 60%;
-        left: 0;
-        border-radius: 0;
-
-    }
-
     .form {
         width: 90%;
     }
@@ -192,12 +185,13 @@ input:-webkit-autofill {
 
 @media screen and (max-width: 740px) {
     .form {
-        width: 50%;
+        width: 90%;
     }
+    /*fix responsivity on those titles*/
 }
 
 @media screen and (max-width: 425px) {
     .form {
-        width: 100%;
+        width: 90%;
     }
 }
