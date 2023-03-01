@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O LivrAquim é um projeto de um sistema de controle de estoque e vendas de uma livraria, estou o desenvolvendo como projeto final do curso programador de sitemas no Senac-PR.
+Página de login simples usando HTML e CSS, pensado para ser o login de um sitema de controle de estoque e  controle de vendas de uma livraria projeto que comecei a desenvolver no Senac-PR.
 
 ## 🔖 Layout
 
