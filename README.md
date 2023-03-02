@@ -24,10 +24,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - Git e Github
 - Figma
+- My
 
 ## 💻 Projeto
 
-Página de login simples usando HTML e CSS, pensado para ser o login de um sitema de controle de estoque e  controle de vendas de uma livraria projeto que comecei a desenvolver no Senac-PR.
+Projeto de um sitema de controle de estoque e vendas de uma livraria que estou desenvondo no Senac-PR.
 
 ## 🔖 Layout
 
