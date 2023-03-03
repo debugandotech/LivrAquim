@@ -167,7 +167,6 @@ input:-webkit-autofill {
         top: 0;
         border-radius: 0;
     }
-
     .first-content,
     .second-content {
         flex-direction: column;
