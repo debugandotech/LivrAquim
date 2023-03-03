@@ -158,8 +158,9 @@ input:-webkit-autofill {
     .content {
         width: 100%;
         height: 100%;
+        border-radius: 0;
+        box-shadow: none;
     }
-
     .content::before {
         width: 100%;
         height: 40%;
@@ -171,6 +172,7 @@ input:-webkit-autofill {
     .second-content {
         flex-direction: column;
         justify-content: space-around;
+        padding: 0;
     }
 
     .first-column,
@@ -182,16 +184,41 @@ input:-webkit-autofill {
         width: 90%;
     }
 }
-
-@media screen and (max-width: 740px) {
-    .form {
-        width: 90%;
+@media screen and (max-width: 570px) {
+    .first-column{
+        padding: 0 50px;
     }
-    /*fix responsivity on those titles*/
 }
-
 @media screen and (max-width: 425px) {
-    .form {
-        width: 90%;
+    img{
+        width: 140px;
+    }
+    .title-primary {
+        font-size: 30px;
+    }
+    .title-second{
+        font-size: 50px;
+        padding: 0 0 40px 0;
+    }
+    .description{
+        font-size: 15px;
+        padding: 0;
+    }
+}
+@media screen and (max-width: 375px) {
+    img{
+        width: 120px;
+    }
+    .title-primary {
+        font-size: 25px;
+    }
+    .title-second {
+        font-size: 45px;
+    }
+    .description{
+        font-size: 13px;
+    }
+    .forget-password{
+        margin-bottom: 50px;
     }
 }
